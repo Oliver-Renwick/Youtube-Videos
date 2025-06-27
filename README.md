@@ -11,22 +11,9 @@ Big thanks to the Manim community for making such an incredible tool available!
 
 Each folder corresponds to a specific video from the channel.
 
-**Latest video:**
-### 🎥 [From Chaos to Control: The Art of Memory Allocation in Video Games](#)
-> A visual deep dive into memory arenas, linear allocators, stack allocators, and pool allocators — explained through animations.
-
 ---
 
-## 🧠 Topics Include
-
-- Custom Memory Allocators (Linear, Stack, Pool)
-- Memory Arenas and Fragmentation
-- Game Engine Internals
-- Systems-level thinking for real-time performance
-
----
-
-## 🙏 Acknowledgements
+## Acknowledgements
 
 This project uses [Manim](https://github.com/ManimCommunity/manim) for animations  
 All editing done using **DaVinci Resolve**
