@@ -35,6 +35,6 @@ More videos and animations on:
 - Game Engine Architecture
 
 Subscribe and stay updated!  
-[👉 Visit my YouTube channel](#)
+[👉 Visit my YouTube channel](https://www.youtube.com/@Ghost_Engine_203)
 
 ---
