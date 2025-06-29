@@ -3,7 +3,6 @@
 This repository contains the **Manim** source code used to create the animated explainer videos on my YouTube channel — focused on **Game Development**, **Engine Design**, and **Low-Level Systems Programming**.
 
 All animations are built using [Manim](https://github.com/ManimCommunity/manim), the open-source mathematical animation engine.  
-Big thanks to the Manim community for making such an incredible tool available!
 
 ---
 
@@ -22,7 +21,7 @@ All editing done using **DaVinci Resolve**
 
 ## 💬 Feedback Welcome
 
-This is my first fully animated technical video using Manim.  
+ 
 I'd really appreciate any feedback on what I can improve — visuals, pacing, or clarity.
 
 ---
